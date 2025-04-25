@@ -4,8 +4,62 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UkOeSVsJBwVzIJoqu-pA-1" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="210" width="120" height="80" as="geometry" />
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="C3h0-Uw_NyTIE3k5Mku2-2" parent="1" target="C3h0-Uw_NyTIE3k5Mku2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="125" y="110" />
+              <mxPoint x="126" y="110" />
+              <mxPoint x="126" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-4" value="&lt;div&gt;الاطلاع على المنيو&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-5" value="طلب الوحبة&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-6" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.423;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.908;exitY=1.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-4" target="C3h0-Uw_NyTIE3k5Mku2-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="320" as="sourcePoint" />
+            <mxPoint x="220" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-10" value="اختيار العميل طلب" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C3h0-Uw_NyTIE3k5Mku2-6">
+          <mxGeometry x="-0.0887" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-11" value="التاكد من المخزون" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-5" target="C3h0-Uw_NyTIE3k5Mku2-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="560" as="sourcePoint" />
+            <mxPoint x="410" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-14" value="انشاء الفاتورة" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-11" target="C3h0-Uw_NyTIE3k5Mku2-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="480" as="sourcePoint" />
+            <mxPoint x="580" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-16" value="دفع قيمة الفاتورة" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-14" target="C3h0-Uw_NyTIE3k5Mku2-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="470" y="420" as="sourcePoint" />
+            <mxPoint x="630" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
