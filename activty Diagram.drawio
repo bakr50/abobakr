@@ -16,7 +16,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAa6bXmPHWRR-01voxHk-1" value="الاطلاع على المنيو" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAa6bXmPHWRR-01voxHk-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;الاطلاع على المنيو&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="404" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kAa6bXmPHWRR-01voxHk-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
             <mxPoint x="400" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAa6bXmPHWRR-01voxHk-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kAa6bXmPHWRR-01voxHk-2">
+        <mxCell id="kAa6bXmPHWRR-01voxHk-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAa6bXmPHWRR-01voxHk-2" target="kAa6bXmPHWRR-01voxHk-10">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="210" y="360" as="sourcePoint" />
             <mxPoint x="330" y="280" as="targetPoint" />
@@ -36,18 +36,62 @@
         </mxCell>
         <mxCell id="kAa6bXmPHWRR-01voxHk-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;طلب&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kAa6bXmPHWRR-01voxHk-4">
           <mxGeometry x="-0.1021" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kAa6bXmPHWRR-01voxHk-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kAa6bXmPHWRR-01voxHk-2">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="320" as="sourcePoint" />
-            <mxPoint x="610" y="280" as="targetPoint" />
+            <mxPoint x="650" y="280" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kAa6bXmPHWRR-01voxHk-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;عدم الطلب&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kAa6bXmPHWRR-01voxHk-5">
           <mxGeometry x="-0.1736" y="-4" relative="1" as="geometry">
             <mxPoint x="2" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAa6bXmPHWRR-01voxHk-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;انشاء فاتورة&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAa6bXmPHWRR-01voxHk-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;تجهيز الطلب&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAa6bXmPHWRR-01voxHk-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.422;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAa6bXmPHWRR-01voxHk-10" target="kAa6bXmPHWRR-01voxHk-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="70" y="500" as="sourcePoint" />
+            <mxPoint x="230" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAa6bXmPHWRR-01voxHk-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAa6bXmPHWRR-01voxHk-11" target="kAa6bXmPHWRR-01voxHk-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="540" as="sourcePoint" />
+            <mxPoint x="290" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAa6bXmPHWRR-01voxHk-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kAa6bXmPHWRR-01voxHk-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kAa6bXmPHWRR-01voxHk-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="590" as="sourcePoint" />
+            <mxPoint x="430" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAa6bXmPHWRR-01voxHk-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;في المحل&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kAa6bXmPHWRR-01voxHk-15">
+          <mxGeometry x="-0.0444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAa6bXmPHWRR-01voxHk-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kAa6bXmPHWRR-01voxHk-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="70" y="670" as="sourcePoint" />
+            <mxPoint x="130" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAa6bXmPHWRR-01voxHk-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;خارج المحل&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kAa6bXmPHWRR-01voxHk-17">
+          <mxGeometry x="-0.0303" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
