@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="Page-1" id="wDICKK-f4viYiMux17MM">
-    <mxGraphModel dx="1042" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,16 +12,16 @@
             <mxPoint x="125" y="210" as="targetPoint" />
             <Array as="points">
               <mxPoint x="125" y="110" />
-              <mxPoint x="126" y="110" />
               <mxPoint x="126" y="80" />
+              <mxPoint x="270" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-4" value="&lt;div&gt;الاطلاع على المنيو&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-5" value="طلب الوحبة&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-6" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.423;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.908;exitY=1.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-4" target="C3h0-Uw_NyTIE3k5Mku2-5">
           <mxGeometry relative="1" as="geometry">
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-11" value="التاكد من المخزون" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-5" target="C3h0-Uw_NyTIE3k5Mku2-11">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-14" value="انشاء الفاتورة" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-11" target="C3h0-Uw_NyTIE3k5Mku2-14">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-16" value="دفع قيمة الفاتورة" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-14" target="C3h0-Uw_NyTIE3k5Mku2-16">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -62,10 +62,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-18" value="كاش" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="480" width="90" height="60" as="geometry" />
+          <mxGeometry x="680" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-19" value="بطاقة" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="480" width="80" height="60" as="geometry" />
+          <mxGeometry x="590" y="450" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-16" target="C3h0-Uw_NyTIE3k5Mku2-19">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-22" value="البنك" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-19" target="C3h0-Uw_NyTIE3k5Mku2-22">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-24" value="تاكيد الدفع" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-25" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-18" target="C3h0-Uw_NyTIE3k5Mku2-24">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -104,13 +104,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-27" value="ارسال الطب" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-28" value="تجهيز الطلب" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-29" value="استلام الطلب" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C3h0-Uw_NyTIE3k5Mku2-30" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-24" target="C3h0-Uw_NyTIE3k5Mku2-27">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -128,6 +128,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="50" y="640" as="sourcePoint" />
             <mxPoint x="210" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-34" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="255" y="311" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3h0-Uw_NyTIE3k5Mku2-35" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="C3h0-Uw_NyTIE3k5Mku2-29" target="C3h0-Uw_NyTIE3k5Mku2-34">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="30" y="450" as="sourcePoint" />
+            <mxPoint x="190" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
