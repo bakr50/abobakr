@@ -183,7 +183,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lZvWsdURLMWJS_P7BMlA-42" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="lZvWsdURLMWJS_P7BMlA-37" target="lZvWsdURLMWJS_P7BMlA-35" edge="1">
+        <mxCell id="lZvWsdURLMWJS_P7BMlA-42" value="ارسال التقييم" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="lZvWsdURLMWJS_P7BMlA-37" target="lZvWsdURLMWJS_P7BMlA-35" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="270" y="560" as="sourcePoint" />
             <mxPoint x="430" y="560" as="targetPoint" />
